@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>HARIPRASAD.H</h1>             
+<h1>Hariprasad Hanamkonda</h1>             
 <h1>Hariprasadhnk493@gmail.com</h1>
 <h1>(M)+919505089595</h1>
 
