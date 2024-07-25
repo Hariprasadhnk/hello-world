@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>HARIPRASAD.H                           
-Hariprasadhnk493@gmail.com
-(M):+919505089595</h1>
+<h1>HARIPRASAD HANAMKONDA</h1>             
+<h1>Hariprasadhnk493@gmail.com</h1>
+<h1>(M):+919505089595</h1>
 
 <h1>Professional Summary</h1>												
 
