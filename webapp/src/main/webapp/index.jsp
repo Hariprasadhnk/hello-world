@@ -6,14 +6,14 @@
 <h1>Hariprasadhnk493@gmail.com</h1>
 <h1>(M)+919505089595</h1>
 
-<h1>Professional Summary</h1>												
+<h2>Professional Summary</h2>												
 
 <p>Experienced IT professional with over 7+ years of expertise specializing in cloud infrastructure and DevOps.
 Expertise in AWS with 4 years of hands-on experience, complemented by 2 years of proficiency in Google Cloud Platform(GCP). Proven track record in designing, implementing, and optimizing cloud solutions, 
 with a strong focus on automation,scalability, and security. Skilled in CI/CD pipelines, container orchestration, and infrastructure as code.Adept at leveraging cloud-native technologies to drive business objectives and deliver high-performance, resilient IT environments.
 </p>
 
-<H1> Primary Responsibilities </H1>
+<h2> Primary Responsibilities </h2>
 
 <p>●	Followed Cost optimization Techniques and Quick deployment process automation using IAC tool Terraform.</p>
 <p>●	Written Terraform modules to For EKS & ECS fargate.</p>
@@ -28,7 +28,7 @@ with a strong focus on automation,scalability, and security. Skilled in CI/CD pi
 <p>●	Good Team interaction skills for supporting daily basis support to different teams include Dev, BA & Delivery.</p>
 <p>●	Worked with Agile Scrum Teams and Make the DevOps system / Cloud system / Monitoring enabled as per the PI planning & Sprint release timelines.</p>
 
-<h1>Professional Experience
+<h2>Professional Experience<h2>
 Wipro technologies Hyderabad.(May 2020-LWD 29th July 2024)
 Role — Cloud & DevOps Team Lead</h1>
 
@@ -61,8 +61,8 @@ via Terraform.
 <p>●	Hands on with other services creation and Configuration on GCP Cloud using App Engine, Compute Engine,Cloud RUN, Cloud Deploy, Cloud CDN and Cloud Load balancing. </p>
  
 
-<h1>Wipro technologies Hyderabad. (March2017-March 2018)
-Role — Associate</h1>
+<h2>Wipro technologies Hyderabad. (March2017-March 2018)<h2>
+<h1>Role — Associate</h1>
 
 
 <p>●	Setup environments using different web & App servers include Apache httpd, Tomcat & Tc Server.
